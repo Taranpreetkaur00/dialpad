@@ -1,0 +1,91 @@
+body{
+  background-color:#400080;
+}
+img{
+  width: 470px;
+  height: fit-content;
+}
+
+#div2-1{
+  
+  position: relative;
+}
+#second{
+  height: 100%;
+  background-color:#400080;
+  opacity: 0.6;
+}
+h1{
+  
+  padding-top: 10%;
+  text-align: center;
+  color: white;
+}
+h2{
+  
+  text-align: center;
+  color: white;
+}
+span {
+  position: absolute;
+  left:260px ;
+  padding-bottom: 5px;
+  color: white;
+}
+
+
+#output{
+  text-align: center;
+  margin: 30px auto 10px auto;
+  display: block;
+  font-size: medium;
+  background: transparent;
+  outline: transparent;
+  width: 75%;
+  height: 80px;
+  padding: 10px;
+  letter-spacing: 0.2em;
+  border: solid white;
+  border-radius: 30px;
+  cursor: default; 
+  color: white;
+  
+}
+#digit{
+  text-align: center;
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  background: transparent;
+  color: white;
+  border: solid white;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 45px;
+  margin-left: 75px;
+}
+
+.def{
+  text-align: center;
+}
+
+.footer{
+  margin-left: 50px;
+  padding: 30px ;
+  text-align: center;
+  color: white;
+  opacity: 0.6;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.container{
+  padding: 0px;
+  margin: 0px;
+
+}
